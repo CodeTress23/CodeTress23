@@ -2,9 +2,9 @@
 
 My name is Amber Massaquoi,
 Welcome to my GitHub!
-Former Healthcare worker breaking into tech.
+Former Healthcare worker 🚑 breaking into tech 👩🏾‍💻.
 
-![me]("https://github.com/CodeTress23/CodeTress23/blob/main/giphy.gif")
+![giphy](https://github.com/CodeTress23/CodeTress23/blob/main/giphy.gif)
 
 Email me at: (amber.massaquoi@gmail.com)
 
