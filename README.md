@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Amber Massaquoi,
+My name is Amber,
 Welcome to my GitHub!
 Former Healthcare worker 🚑 breaking into tech 👩🏾‍💻.
 
 ![giphy](https://github.com/CodeTress23/CodeTress23/blob/main/giphy.gif)
 
-I love most things horror whether games/movies, anime and reading.
+Fun Fact: I love most things horror whether games/movies, anime and reading.
 
 Email me at: (amber.massaquoi@gmail.com)
 
